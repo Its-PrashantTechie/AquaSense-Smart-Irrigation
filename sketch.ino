@@ -6,7 +6,7 @@ const char* ssid     = "Wokwi-GUEST";
 const char* password = "";
 
 // ---------- ThingSpeak ----------
-String apiKey = "YOUR_WRITE_API_KEY"   // paste your Write API Key
+String apiKey = "YOUR_WRITE_API_KEY";  // paste your Write API Key
 String server = "http://api.thingspeak.com/update";
 
 // ---------- Pins ----------
