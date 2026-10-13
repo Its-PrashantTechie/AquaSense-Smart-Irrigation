@@ -80,8 +80,10 @@ In the simulation the LED represents the pump. On real hardware, the pump would 
 ```
 AquaSense-Smart-Irrigation/
 ├── sketch.ino
+├── Images
 ├── diagram.json
 └── README.md
+
 ```
 
 ## Applications
